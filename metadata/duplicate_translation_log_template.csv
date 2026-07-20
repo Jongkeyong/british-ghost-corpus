@@ -1,0 +1,3 @@
+review_id,candidate_id,retained_id,relationship,similarity_basis,translation_or_edition_difference,decision,decision_rationale,review_date,notes
+DUP000,BGH000,BGH001,near_exact_duplicate,text_comparison,,exclude_candidate,Brief rationale,2026-07-20,
+TRN000,BGH002,BGH003,alternate_translation,bibliographic_and_textual_comparison,Translator or edition difference,retain_one,Brief rationale,2026-07-20,
