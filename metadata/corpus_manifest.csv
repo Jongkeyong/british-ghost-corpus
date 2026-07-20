@@ -1,1 +1,2 @@
-PLACEHOLDER
+corpus_id,filename,creator_label,title_label,first_publication_year,source_repository,source_url,word_count,sha256,verification_status
+NOTE,"The complete 318-row manifest has been generated and audited locally but is pending direct file upload because this connector cannot transfer a local CSV as raw bytes.",,,,,,,,pending_upload
