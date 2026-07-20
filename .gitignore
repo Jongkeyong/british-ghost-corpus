@@ -1,0 +1,28 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Temporary and generated files
+*.tmp
+*.log
+~$*
+
+# Restricted or unreviewed primary texts
+corpus/restricted/
+corpus/unreviewed/
+private/
+
+# Large local derivatives
+results/tmp/
