@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this research corpus and its documentation using the metadata below."
+title: "British Ghost Corpus: Deduplicated Translations"
+version: "0.3"
+type: dataset
+authors:
+  - family-names: Kim
+    given-names: Jong-Keyong
+    alias: Jake Kim
+year: 2026
+date-released: 2026-07-20
+repository-code: "https://github.com/Jongkeyong/british-ghost-corpus"
+url: "https://github.com/Jongkeyong/british-ghost-corpus"
+abstract: >-
+  A researcher-constructed corpus and methodological record for the study of
+  British ghost stories and their circulation from 1764 to 1913. Version 0.3
+  contains 318 active textual units after duplicate and alternate-translation
+  review. The repository emphasizes corpus genealogy, selection decisions,
+  provenance, uncertainty, and reproducibility.
+keywords:
+  - British literature
+  - ghost stories
+  - Gothic
+  - digital humanities
+  - corpus construction
+  - nineteenth century
+license: CC-BY-4.0
