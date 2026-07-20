@@ -1,0 +1,2 @@
+corpus_id,author,title,publication_year,first_publication_context,language,translation_status,translator,source_repository,source_url,textual_unit,genre_form,inclusion_status,inclusion_rationale,text_quality,ocr_status,rights_status,notes
+BGH000,Author Name,Title,1900,Periodical or volume,English,original,,Repository,https://example.org,short_story,short fiction,active,Brief rationale,verified,not_applicable,review_required,
