@@ -1,0 +1,10 @@
+British Ghost Corpus v0.4 user-directed canonical and boundary expansion
+Corpus text files: 320
+Inherited v0.3 texts: 317
+Newly ingested texts: 3
+Existing text explicitly reconfirmed without duplication: 1 (Oscar Wilde, The Canterville Ghost, BGH187)
+New canonical/Gothic-boundary additions: Horace Walpole, Walter Scott, Matthew Gregory Lewis
+Women-authored texts: 107
+Women-associated texts including mixed collaboration: 112
+User-directed boundary inclusions: 1 (The Monk: A Romance)
+All three new text files are complete autonomous works from public-domain transcriptions. The Monk is transparently marked as an explicit override to the corpus's ordinary demon exclusion.

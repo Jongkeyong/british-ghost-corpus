@@ -1,0 +1,5 @@
+﻿corpus_id,author,title,year,action,corpus_status,boundary_basis,source_url
+BGH318,Horace Walpole,The Castle of Otranto,1764,added in v0.4,confirmed_textual_fit,An ancestral revenant and its gigantic armoured manifestations materially enforce the dynastic prophecy and determine the plot.,https://www.gutenberg.org/ebooks/696
+BGH319,Walter Scott,My Aunt Margaret's Mirror,1828,added in v0.4,confirmed_textual_fit,"The mirror's apparition is materially mediated, evidentiary, and central to the autonomous tale's revelation and tragedy.",https://www.gutenberg.org/ebooks/1667
+BGH320,Matthew Gregory Lewis,The Monk: A Romance,1796,added in v0.4,user_directed_boundary_inclusion,"The Bleeding Nun is a perceptible dead-returning agent central to a major embedded narrative, while the whole novel is admitted transparently as a user-directed boundary case.",https://www.gutenberg.org/ebooks/601
+BGH187,Oscar Wilde,The Canterville Ghost,1887,retained; already present; no duplicate created,confirmed_textual_fit,Explicitly reconfirmed by the user; existing full-text record preserved as the sole corpus item.,https://www.gutenberg.org/ebooks/14522
